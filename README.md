@@ -21,7 +21,7 @@ These devices have almost the same categories as the wearables, so the results a
   <li><strong>Sending of information and firmware updates via HTTP</strong>: as was the case with wearables, these devices are exposed to techniques such as “Network Sniffing” that capture the information sent via HTTP.</li>
 </ul>
 
-<p align="right">(<a href="https://soniasoleracotanilla.github.io/Tests/">Back Testing</a>)</p>
+<p align="right">(<a href="https://rayuelaproject.github.io/Tests/">Back Testing</a>)</p>
 
 </div>
 
@@ -31,6 +31,6 @@ These devices have almost the same categories as the wearables, so the results a
 
 Therefore, three techniques should be considered: “Exfiltration Over Unencrypted/Obfuscated Non-C2 Protocol”, “System Network Configuration Discovery” and “Data from cloud storage object”. These techniques have worse detection coverage while being commonly used by the selected cyber-criminal groups. 
 
-<p align="right">(<a href="https://soniasoleracotanilla.github.io/Tests/">Back Testing</a>)</p>
+<p align="right">(<a href="https://rayuelaproject.github.io/Tests/">Back Testing</a>)</p>
 
 </div>
